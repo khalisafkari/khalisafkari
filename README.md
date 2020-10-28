@@ -1,3 +1,4 @@
+<img src="https://pm1.narvii.com/5941/404c359f9d62d361eb58b66a3da69d369f47f990_hq.jpg" height="20%" width="100%"></img>
 <h1 align="center">Hi 👋, I'm khalis afkari</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
